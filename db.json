@@ -1,8 +1,8 @@
 {
-  "tasks": [
+  "messages": [
     {
       "id": 1,
-      "task": "Some text"
+      "text": "Some text"
     }
   ]
 }
