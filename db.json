@@ -4,5 +4,12 @@
       "id": 1,
       "text": "Some text"
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "dan1e11s",
+      "password": "123qwe"
+    }
   ]
 }
